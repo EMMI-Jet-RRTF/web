@@ -24,6 +24,8 @@ Then from the gateway node
 * Documentation for batch system: [Slurm@Kronos](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
    * Dedicated cpu: 300 cores
 
+* Storage: every guest account has a dedicated area for several TB of storage at /lustre/emmi/<username>, which is accessible from the kronos.hpc nodes
+
 * Using software which is not system-standard (e.g. new compiler):
 
 ```
