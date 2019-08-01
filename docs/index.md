@@ -12,7 +12,7 @@
 
 * IT help at GSI: contact Carsten Preuss (<c.preuss@gsi.de>) and Thomas Roth (<T.Roth@gsi.de>)
 
-* For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account (refered to here as <username>).
+* For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account (refered to here as \<username\>).
 
 * To log on to the facility:
 
