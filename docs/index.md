@@ -44,12 +44,12 @@ module use
    
    2. open an ssh tunnel (and keep it open):
    ```
-   > ssh -l <username> -N -L 2222:kronos.hpc:22 lx-pool.gsi.de
+   ssh -l <username> -N -L 2222:kronos.hpc:22 lx-pool.gsi.de
    ```
    
    3. in another shell (if ssh tunnel process not sent to background) use rsync to copy files or directories via the ssh tunnel
    ```
-   > rsync -avh --progress -e "ssh -l <username> -p 2222" test.file localhost:~/
+   rsync -avh --progress -e "ssh -l <username> -p 2222" test.file localhost:~/
    ```
 
 ## Software
