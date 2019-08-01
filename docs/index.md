@@ -10,9 +10,9 @@
 
 # Instructions on GSI cluster use
 
-1. For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account.
+* For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account.
 
-2. To log on to the facility:
+* To log on to the facility:
 
 ```
 From your machine:
@@ -21,9 +21,9 @@ From your machine:
 Then from the gateway node
 > ssh kronos.hpc
 ```
-3. Documentation on batch system: [SLURM](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
+* Documentation on batch system: [SLURM](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
 
-4. Using software which is not system-standard (e.g. new compiler):
+* Using software which is not system-standard (e.g. new compiler):
 
 ```
 module use /cvmfs/it.gsi.de/modulefiles/
