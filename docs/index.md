@@ -22,7 +22,7 @@ Then from the gateway node
 > ssh kronos.hpc
 ```
 * Documentation for batch system: [SLURM](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
-** Dedicated cpu: 300 cores
+   * Dedicated cpu: 300 cores
 
 * Using software which is not system-standard (e.g. new compiler):
 
