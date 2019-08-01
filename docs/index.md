@@ -4,8 +4,8 @@
 
 # Repository for EMMI Jet RRTF
 
-- RRTF Indico pages : [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
-- This page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
+- Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
+- This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
 - Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
 
 # Instructions on GSI cluster use
