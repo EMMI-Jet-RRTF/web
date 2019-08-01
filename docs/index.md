@@ -1,4 +1,4 @@
-![EMMI Logo]https://www.gsi.de/fileadmin/_processed_/4/d/csm_Emmi_logo_web_2aa7dc5b12.png
+![EMMI Logo](https://www.gsi.de/fileadmin/_processed_/4/d/csm_Emmi_logo_web_2aa7dc5b12.png)
 
 # Repository for EMMI Jet RRTF
 
