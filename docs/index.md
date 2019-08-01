@@ -4,7 +4,7 @@
 
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 
-## Computing, Datasets, Software
+# Computing, Datasets, Software
 
 - Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
