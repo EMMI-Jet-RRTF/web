@@ -21,7 +21,7 @@ From your machine:
 Then from the gateway node
 > ssh kronos.hpc
 ```
-* Documentation on batch system: [SLURM](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
+* Documentation for batch system: [SLURM](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
 
 * Using software which is not system-standard (e.g. new compiler):
 
