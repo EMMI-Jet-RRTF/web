@@ -37,15 +37,15 @@ module avail
 module use
 ```
 
-## FAQ
-
-* How to copy files directly to kronos.hpc?
-   * Suggestion / example (note: I suggest you setup the ssh pub-key authentication - no pass typing):
-   1. open an ssh tunnel (and keep it open):
+* Copying files generated externally directly to kronos.hpc:
+   1. Set up ssh pub-key authentication - no pass typing
+   
+   2. open an ssh tunnel (and keep it open):
    ```
    ssh -l emmi01 -N -L 2222:kronos.hpc:22 lx-pool.gsi.de
    ```
-   2. in another shell (if #1 is not sent to background) use rsync to copy files or directories via the ssh tunnel
+   
+   3. in another shell (if ssh tunnel process not sent to background) use rsync to copy files or directories via the ssh tunnel
    ```
    rsync -avh --progress -e "ssh -l emmi01 -p 2222" test.file localhost:~/
    ```
