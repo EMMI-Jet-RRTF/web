@@ -16,7 +16,7 @@
 
 ```
 From your machine:
-> ssh youraccount@lx-pool.gsi.de
+> ssh <username>@lx-pool.gsi.de
 
 Then from the gateway node
 > ssh kronos.hpc
