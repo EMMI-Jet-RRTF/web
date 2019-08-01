@@ -4,11 +4,13 @@
 
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 
+## Computing, Datasets, Software
+
 - Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
 - Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
 
-# Instructions on GSI cluster use
+## Instructions on GSI cluster use
 
 * IT help at GSI: contact Carsten Preuss (<c.preuss@gsi.de>) and Thomas Roth (<T.Roth@gsi.de>)
 
@@ -50,11 +52,15 @@ module use
    > rsync -avh --progress -e "ssh -l <username> -p 2222" test.file localhost:~/
    ```
 
-# Instructions on software
+## Software
 
 Under construction
 
-# Other Links
+## Data sets
+
+Under construction
+
+## Other Links
 - [JetTools 2019](https://indico.cern.ch/event/771644/overview)
 - [JETSCAPE Collaboration](http://jetscape.org/)
 
