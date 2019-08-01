@@ -1,8 +1,9 @@
 ![EMMI Logo](https://www.gsi.de/fileadmin/_processed_/4/d/csm_Emmi_logo_web_2aa7dc5b12.png)
 
-## [ExtreMe Matter Institute EMMI](https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm) 
+## [ExtreMe Matter Institute](https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm) 
 
-# Repository for EMMI Jet RRTF
+# EMMI Rapid Reaction Task Force
+# The space-time structure of jet quenching: theory and experiment
 
 - Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
