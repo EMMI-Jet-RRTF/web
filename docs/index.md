@@ -2,7 +2,7 @@
 
 ## [ExtreMe Matter Institute](https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm) 
 
-# EMMI Rapid Reaction Task Force
+# Rapid Reaction Task Force
 # The space-time structure of jet quenching: theory and experiment
 
 - Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
