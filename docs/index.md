@@ -10,7 +10,7 @@
 
 # Instructions on GSI cluster use
 
-For a workshop account on the GSI HPC facility contact Peter Jacobs. You will be assigned a unique gues account.
+For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account.
 
 To log on to the facility:
 
@@ -24,7 +24,9 @@ Then from the gateway node
 
 # Instructions on software
 
-# Other Links
+Under construction
 
-- JETSCAPE Collaboration [http://jetscape.wayne.edu](http://jetscape.wayne.edu)
+# Other Links
+- [JetTools 2019](https://indico.cern.ch/event/771644/overview)
+- [JETSCAPE Collaboration](http://jetscape.org/)
 
