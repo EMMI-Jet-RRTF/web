@@ -10,6 +10,8 @@
 
 # Instructions on GSI cluster use
 
+* IT help at GSI: contact [Carsten Preuss](c.preuss@gsi.de) and [Thomas Roth](.Roth@gsi.de)
+
 * For a workshop account on the GSI HPC facility contact Peter Jacobs, who will assign you a unique guest account.
 
 * To log on to the facility:
@@ -23,6 +25,7 @@ Then from the gateway node
 ```
 * Documentation for batch system: [Slurm@Kronos](https://wiki.gsi.de/foswiki/bin/view/Linux/SlurmUsage)
    * Dedicated cpu: 300 cores
+   * job submission: use `sbatch --reservation=emmi_85 ....`
 
 * Storage: every guest account has a dedicated area for several TB of storage at `/lustre/emmi/<username>`, which is accessible from the kronos.hpc nodes
 
