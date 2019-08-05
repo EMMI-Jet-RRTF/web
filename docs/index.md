@@ -6,9 +6,9 @@
 
 # Links
 
-- Indico page for RRTF: [https://indico.gsi.de/event/8938/](https://indico.gsi.de/event/8938/)
-- Workshop indico page: [https://indico.gsi.de/event/9270/overview](https://indico.gsi.de/event/9270/overview)
-- Open symposium on Monday morning: [https://indico.gsi.de/event/9065/](https://indico.gsi.de/event/9065/)
+- Workshop indico page: [https://indico.gsi.de/event/9270/](https://indico.gsi.de/event/9270/)
+
+- Open symposium (Monday morning): [https://indico.gsi.de/event/9065/](https://indico.gsi.de/event/9065/)
 
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
 - Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
