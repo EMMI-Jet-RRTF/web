@@ -76,6 +76,14 @@ For the initial binary collision profiles, they are stored in the initial_condit
 Please cite https://arxiv.org/pdf/1806.05288.pdf for the simulation setup. 
 Fig. 5 shows the quality of the agreement with experimental data. 
 
+## PYTHIA
+## HERWIG
+## JETSCAPE
+## JEWEL
+## MARTINI
+## Hybrid Model
+## Q-PYTHIA
+
 # Other Links
 - [JetTools 2019](https://indico.cern.ch/event/771644/overview)
 - [JETSCAPE Collaboration](http://jetscape.org/)
