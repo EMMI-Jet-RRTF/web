@@ -6,7 +6,7 @@
 
 # Table of Contents
 1. [Workshop Links](# Workshop Links)
-2. [Data sets](# Data sets)
+2. [Software](#Software)
 
 
 # Workshop Links
