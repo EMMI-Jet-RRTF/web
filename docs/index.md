@@ -13,10 +13,9 @@
 
 - <a href="https://indico.gsi.de/event/9270/" target="_blank"> Workshop indico page </a>
 - <a href="https://indico.gsi.de/event/9065/" target="_blank"> Open symposium (Monday morning) </a>
-- <a href="https://hotqcd.github.io/emmi-jet-rrtf/" target="_blank"> This github page </a>
 - <a href="https://github.com/hotqcd/emmi-jet-rrtf" target="_blank"> Link to github repository </a>
 
 ## Other Links
-- [JetTools 2019](https://indico.cern.ch/event/771644/overview)
-- [JETSCAPE Collaboration](http://jetscape.org/)
 
+- <a href="https://indico.cern.ch/event/771644/overview" target="_blank"> JetTools 2019 </a>
+- <a href="http://jetscape.org/" target="_blank"> JETSCAPE Collaboration </a>
