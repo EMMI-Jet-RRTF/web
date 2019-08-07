@@ -5,11 +5,11 @@
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 
 # Table of Contents
-1. [Workshop Links](# Workshop Links)
+1. [Workshop Links](#WorkshopLinks)
 2. [Software](#Software)
 
 
-# Workshop Links
+# Workshop Links <a name="WorkshopLinks"></a>
 
 - Workshop indico page: [https://indico.gsi.de/event/9270/](https://indico.gsi.de/event/9270/)
 
@@ -60,7 +60,7 @@ module use
    rsync -avh --progress -e "ssh -l <username> -p 2222" test.file localhost:~/
    ```
 
-# Software
+# Software <a name="Software"></a>
 
 Under construction
 
