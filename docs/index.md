@@ -6,6 +6,9 @@
 
 ### GSI, August 12-116 2019
 
+<hr>
+<hr>
+
 ## Documentation
 1. [Computing at GSI](computing.md)
 2. [Software](software.md)
