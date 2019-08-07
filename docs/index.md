@@ -10,7 +10,7 @@
 
 ## Documentation
 1. [Computing at GSI](computing.md)
-2. [Software](software.md)
+2. [Analysis Software](software.md)
 3. [Datasets](datasets.md)
 
 ## Workshop Links <a name="WorkshopLinks"></a>
