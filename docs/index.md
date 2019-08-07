@@ -12,6 +12,7 @@
 ## Workshop Links <a name="WorkshopLinks"></a>
 
 - Workshop indico page: [https://indico.gsi.de/event/9270/](https://indico.gsi.de/event/9270/)
+- <a href="https://indico.gsi.de/event/9270/" target="_blank"> Test of alternate workshop indico page </a>
 - Open symposium (Monday morning): [https://indico.gsi.de/event/9065/](https://indico.gsi.de/event/9065/)
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
 - Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
