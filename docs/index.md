@@ -11,11 +11,10 @@
 
 ## Workshop Links <a name="WorkshopLinks"></a>
 
-- Workshop indico page: [https://indico.gsi.de/event/9270/](https://indico.gsi.de/event/9270/)
-- <a href="https://indico.gsi.de/event/9270/" target="_blank"> Test of alternate workshop indico page </a>
-- Open symposium (Monday morning): [https://indico.gsi.de/event/9065/](https://indico.gsi.de/event/9065/)
-- This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
-- Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
+- <a href="https://indico.gsi.de/event/9270/" target="_blank"> Workshop indico page </a>
+- <a href="https://indico.gsi.de/event/9065/" target="_blank"> Open symposium (Monday morning) </a>
+- <a href="https://hotqcd.github.io/emmi-jet-rrtf/" target="_blank"> This github page </a>
+- <a href="https://github.com/hotqcd/emmi-jet-rrtf" target="_blank"> Link to github repository </a>
 
 ## Other Links
 - [JetTools 2019](https://indico.cern.ch/event/771644/overview)
