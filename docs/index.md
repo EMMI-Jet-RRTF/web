@@ -4,6 +4,8 @@
 
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 
+### GSI, August 12-116 2019
+
 ## Documentation
 1. [Computing at GSI](computing.md)
 2. [Software](software.md)
