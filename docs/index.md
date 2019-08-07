@@ -5,11 +5,9 @@
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 
 # Table of Contents
-1. [Workshop Links](#WorkshopLinks)
-2. [Computing at GSI](computing.md)
-2. [Software](#Software)
+1. [Computing at GSI](computing.md)
+2. [Software](software.md)
 3. [datasets](datasets.md)
-
 
 # Workshop Links <a name="WorkshopLinks"></a>
 
@@ -19,12 +17,6 @@
 
 - This github page [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
 - Link to github repository [https://github.com/hotqcd/emmi-jet-rrtf](https://github.com/hotqcd/emmi-jet-rrtf)
-
-
-
-# Software <a name="Software"></a>
-
-Under construction
 
 # Other Links
 - [JetTools 2019](https://indico.cern.ch/event/771644/overview)
