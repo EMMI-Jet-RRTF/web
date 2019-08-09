@@ -1,5 +1,4 @@
 # Data sets
-<tiny>[Back to EMMI-Jet-RRTF](index.md)</tiny>
 
 ## Hydro
 
@@ -23,3 +22,7 @@ Fig. 5 shows the quality of the agreement with experimental data.
 ## MARTINI
 ## Hybrid Model
 ## Q-PYTHIA
+
+<hr>
+
+[Back to EMMI-Jet-RRTF](index.md)
