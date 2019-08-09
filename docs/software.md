@@ -1,3 +1,61 @@
 # Analysis Software
 
 Under construction...
+
+# FASTJET, HEPMC, LHAPDF, PYTHIA with python - HepPy
+
+- [https://github.com/matplo/heppy](https://github.com/matplo/heppy)
+
+# at GSI
+
+## load the modules
+```
+module use /u/emmi01/rrtf/heppy/modules
+module load heppy/main_python
+```
+
+- see what's loaded
+```
+module list
+```
+
+## try examples
+
+- note: examples use a progress bar - run the command below
+```
+pip install tqdm --user
+```
+
+### generate some pythia events and on-the-fly run fastjet, de-cluster into Lund, soft-drop ...
+
+```
+/u/emmi01/rrtf/heppy/examples/pythia_gen_fastjet_lund_test.py
+```
+
+- code on github: [https://github.com/matplo/heppy/blob/master/examples/pythia_gen_fastjet_lund_test.py](https://github.com/matplo/heppy/blob/master/examples/pythia_gen_fastjet_lund_test.py)
+
+### generate some pythia events and write a hepmc2 file
+
+```
+/u/emmi01/rrtf/heppy/examples/pythia_gen_write_hepmc.py
+```
+
+- code on github: [https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py](https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py)
+
+### read the hepmc2 file and run a jet finder....
+
+- note for this step you will need an extra package - one time command...
+
+```
+pip install pyhepmc_ng --user
+```
+
+- now run the jet finding on the hepmc file:
+
+```
+/u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 2 -i ./pythia_gen_test_hepmc2.dat
+```
+
+- code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
+
+### more items coming up... - including ROOT, histograms etc...
