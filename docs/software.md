@@ -27,7 +27,27 @@ Currently Loaded Modulefiles:
   3) heppy/python/HEPMC2/2.06.09   6) heppy/python/PYTHIA8/8235     9) heppy/main_python
 ```
 
-- these are fully functional packages that you can use for other purposes - for example typing `root -l -b` will open a root session...
+- these are fully functional packages that you can use for other purposes - for example typing `root -l -b` will open a root session... if you want to use these to build other software - lookup the module file or use the `env | grep` - for example:
+
+```
+> env | grep HEPPY
+HEPPY_PYTHON_VERSION=2.7
+HEPPYDIR=/u/emmi01/rrtf/heppy
+HEPPY_PYTHON_LIBDIR=/usr/lib
+HEPPY_PYTHON_INCLUDE_DIR=/usr/include/python2.7
+HEPPY_PYTHON_SETUP=TRUE
+HEPPY_PYTHON_EXECUTABLE=/usr/bin/python
+HEPPY_PYTHON_CONFIG_LDFLAGS=-L/usr/lib/python2.7/config-x86_64-linux-gnu -L/usr/lib -lpython2.7 -lpthread -ldl -lutil -lm -Xlinker -export-dynamic -Wl,-O1 -Wl,-Bsymbolic-functions
+HEPPY_PYTHON_LIBS=-lpython2.7 -lpthread -ldl -lutil -lm
+HEPPY_PYTHON_LIBS_LINK=-L/usr/lib -lpython2.7 -lpthread -ldl -lutil -lm
+HEPPY_PYTHON_MODULE_LOADED=heppy/heppy_python
+HEPPY_PYTHON_BIN_DIR=/usr/bin
+HEPPY_PYTHON_NUMPY_INCLUDE_DIR=/usr/lib/python2.7/dist-packages/numpy/core/include
+HEPPY_USER_PYTHON_VERSION=python
+HEPPY_PYTHON_CONFIG_INCLUDES=-I/usr/include/python2.7 -I/usr/include/x86_64-linux-gnu/python2.7
+HEPPY_DIR=/u/emmi01/rrtf/heppy
+HEPPY_ROOT=/u/emmi01/rrtf/heppy
+```
 
 - nuclear PDFs installed: EPPS16nlo_CT14nlo_Pb208, EPPS16nlo_CT14nlo_Au197
 ```
