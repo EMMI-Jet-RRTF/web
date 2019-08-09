@@ -60,10 +60,10 @@ pip install pyhepmc_ng --user
 /u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 2 -i ./pythia_gen_test_hepmc2.dat
 ```
 
-- or run on jetscape events... (note the --hepmc `3`)
+- or run on jetscape events... (note the --hepmc `3`) - likely jet pT cut too high... - modify the code...
 
 ```
-/u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 3 -i /lustre/emmi/emmi02/PP19_2760_50_dijet/1/test_out.hepmc
+/u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 3 -i /lustre/emmi/emmi02/PP19_2760_50_dijet/1/test_out.hepmc --nev 1000
 ```
 
 - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
