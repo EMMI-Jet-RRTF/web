@@ -125,6 +125,13 @@ pip install pyhepmc_ng --user
 ```
    - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py)
 
+- Liliana reported that the q-pythia generated hepmc2 does not work... another wrapper was added - an example usage:
+
+```
+$HEPPYDIR/examples/hepmc_qpythia_jetreco.py -i /u/emmi08/qpythia_qhat2_1.hepmc
+```
+    - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py)
+
 ### more items coming up...
 
 <hr>
