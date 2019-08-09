@@ -114,7 +114,8 @@ pip install pyhepmc_ng --user
 ```
 
    - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py) - run for 1000 events (use: `--nev=1000` switch) produces a Lund Plane as below...
-   ![primary Lund Plane density example](img/example/hepmc_jetreco.root.draw_Fig_1.png)
+
+![primary Lund Plane density example](img/example/hepmc_jetreco.root.draw_Fig_1.png)
 
 - or run on jetscape events, and save a ROOT histogram:
 
