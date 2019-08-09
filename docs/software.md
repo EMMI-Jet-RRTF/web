@@ -80,7 +80,7 @@ pip install tqdm --user
 
 - also rather soon you will need numpy and pandas
 ```
-pip install numpy pandas --user
+pip install numpy pandas array --user
 ```
 
 ### generate some pythia events and on-the-fly run fastjet, de-cluster into Lund, soft-drop ...
@@ -113,7 +113,8 @@ pip install pyhepmc_ng --user
 /u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 2 -i ./pythia_gen_test_hepmc2.dat
 ```
 
-   - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
+   - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py) - run for 1000 events (use: `--nev=1000` switch) produces a Lund Plane as below...
+   ![primary Lund Plane density example](img/example/hepmc_jetreco.root.draw_Fig_1.png)
 
 - or run on jetscape events, and save a ROOT histogram:
 
