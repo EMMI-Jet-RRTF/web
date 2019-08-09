@@ -60,6 +60,12 @@ pip install pyhepmc_ng --user
 /u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 2 -i ./pythia_gen_test_hepmc2.dat
 ```
 
+- or run on jetscape events... (note the --hepmc `3`)
+
+```
+/u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 3 -i /lustre/emmi/emmi02/PP19_2760_50_dijet/1/test_out.hepmc
+```
+
 - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
 
 ### more items coming up... - including ROOT, histograms etc...
