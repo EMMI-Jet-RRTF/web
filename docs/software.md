@@ -50,6 +50,7 @@ HEPPY_ROOT=/u/emmi01/rrtf/heppy
 ```
 
 - nuclear PDFs installed: EPPS16nlo_CT14nlo_Pb208, EPPS16nlo_CT14nlo_Au197
+
 ```
 > lhapdf show EPPS16nlo_CT14nlo_Pb208
 EPPS16nlo_CT14nlo_Pb208
@@ -115,6 +116,7 @@ pip install pyhepmc_ng --user
 
    - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py) - run for 1000 events (use: `--nev=1000` switch) produces a Lund Plane as below...
 
+![primary Lund Plane density example](img/example/hepmc_jetreco.root.draw_Fig_0.png)
 ![primary Lund Plane density example](img/example/hepmc_jetreco.root.draw_Fig_1.png)
 
 - or run on jetscape events, and save a ROOT histogram:
