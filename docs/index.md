@@ -17,7 +17,7 @@
 
 - <a href="https://indico.gsi.de/event/9270/" target="_blank"> Workshop indico page </a>
 - <a href="https://indico.gsi.de/event/9065/" target="_blank"> Open symposium (Monday morning) </a>
-- <a href="https://github.com/hotqcd/emmi-jet-rrtf" target="_blank"> Link to github repository for this website </a>
+- <a href="https://github.com/EMMI-Jet-RRTF/web/" target="_blank"> Link to github repository for this website </a>
 
 ## Other Links
 
