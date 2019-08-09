@@ -18,6 +18,39 @@ module load heppy/main_python
 module list
 ```
 
+- the following (or alike) should be displayed
+
+```
+Currently Loaded Modulefiles:
+  1) heppy/heppy_python            4) heppy/python/HEPMC3/3.1.1     7) heppy/python/FASTJET/3.3.2
+  2) heppy/python/LHAPDF6/6.2.3    5) heppy/python/ROOT/6.18.00     8) heppy/python/cpptools/1.0
+  3) heppy/python/HEPMC2/2.06.09   6) heppy/python/PYTHIA8/8235     9) heppy/main_python
+```
+
+- these are fully functional packages that you can use for other purposes - for example typing `root -l -b` will open a root session...
+
+- nuclear PDFs installed: EPPS16nlo_CT14nlo_Pb208, EPPS16nlo_CT14nlo_Au197
+```
+> lhapdf show EPPS16nlo_CT14nlo_Pb208
+EPPS16nlo_CT14nlo_Pb208
+=======================
+LHAPDF ID: 901300
+Version: 1
+EPPS16+CT14nlo, 2-loop PDF evolution with HOPPET and HOPPET alphas_s running solution. In total 97 member PDFs. mem=0 --> central value; mem=1-96 --> eigenvector sets 90%. For more info, visit https://www.jyu.fi/fysiikka/en/research/highenergy/urhic/EPPS16%20download
+Number of members: 97
+Error type: hessian
+
+> lhapdf show EPPS16nlo_CT14nlo_Au197
+EPPS16nlo_CT14nlo_Au197
+=======================
+LHAPDF ID: 901200
+Version: 1
+EPPS16+CT14nlo, 2-loop PDF evolution with HOPPET and HOPPET alphas_s running solution. In total 97 member PDFs. mem=0 --> central value; mem=1-96 --> eigenvector sets 90%. For more info, visit https://www.jyu.fi/fysiikka/en/research/highenergy/urhic/EPPS16%20download
+Number of members: 97
+Error type: hessian
+```
+
+
 ## try examples
 
 - note: examples use a progress bar - run the command below
