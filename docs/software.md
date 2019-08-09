@@ -44,7 +44,7 @@ pip install numpy pandas --user
 /u/emmi01/rrtf/heppy/examples/pythia_gen_write_hepmc.py
 ```
 
-- code on github: [https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py](https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py)
+   - code on github: [https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py](https://github.com/matplo/heppy/blob/master/examples/pythia_gen_write_hepmc.py)
 
 ### read the hepmc2 file and run a jet finder....
 
@@ -60,12 +60,13 @@ pip install pyhepmc_ng --user
 /u/emmi01/rrtf/heppy/examples/hepmc_jetreco.py --hepmc 2 -i ./pythia_gen_test_hepmc2.dat
 ```
 
+   - code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
+
 - or run on jetscape events, and save a ROOT histogram:
 
 ```
 /u/emmi01/rrtf/heppy/examples/hepmc_jetscape_jetreco.py -i /lustre/emmi/emmi02/PP19_2760_50_dijet/1/test_out.hepmc
 ```
-
-- code on github: [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetreco.py)
+   - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py)
 
 ### more items coming up...
