@@ -25,6 +25,11 @@ module list
 pip install tqdm --user
 ```
 
+- also rather soon you will need numpy and pandas
+```
+pip install numpy pandas --user
+```
+
 ### generate some pythia events and on-the-fly run fastjet, de-cluster into Lund, soft-drop ...
 
 ```
