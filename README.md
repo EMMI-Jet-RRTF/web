@@ -2,4 +2,4 @@
 
 Repository for EMMI Jet RRTF
 
-Some documentation at [https://hotqcd.github.io/emmi-jet-rrtf/](https://hotqcd.github.io/emmi-jet-rrtf/)
+Some documentation at [https://emmi-jet-rrtf.github.io/web](https://emmi-jet-rrtf.github.io/web)
