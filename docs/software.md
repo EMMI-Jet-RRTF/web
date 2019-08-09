@@ -5,8 +5,7 @@ Under construction...
 # FASTJET, HEPMC, LHAPDF, PYTHIA with python - HepPy
 
 - [https://github.com/matplo/heppy](https://github.com/matplo/heppy)
-
-# at GSI
+- installed at GSI in emmi01 user dir
 
 ## load the modules
 ```
