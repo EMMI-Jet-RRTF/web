@@ -130,7 +130,7 @@ pip install pyhepmc_ng --user
 ```
 $HEPPYDIR/examples/hepmc_qpythia_jetreco.py -i /u/emmi08/qpythia_qhat2_1.hepmc
 ```
-    - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py)
+   - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py)
 
 ### more items coming up...
 
