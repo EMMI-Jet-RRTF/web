@@ -2,7 +2,7 @@
 <!--![EMMI Logo](https://avatars3.githubusercontent.com/u/9026572?s=400&u=4a9412e0949d3fd1c07251a2e1be0357ee1652e8&v=4)-->
 
 <a href="https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm">
-  <img src="https://avatars3.githubusercontent.com/u/9026572?s=400&u=4a9412e0949d3fd1c07251a2e1be0357ee1652e8&v=4" alt="EMMI"   width="200" height="200"> <br> #ExtreMe Matter Institute </a>
+  <img src="https://avatars3.githubusercontent.com/u/9026572?s=400&u=4a9412e0949d3fd1c07251a2e1be0357ee1652e8&v=4" alt="EMMI"   width="200" height="200"> <br> ExtreMe Matter Institute </a>
 
 <!-- ## [ExtreMe Matter Institute](https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm) -->
 
