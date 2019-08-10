@@ -4,7 +4,7 @@
 
 # Rapid Reaction Task Force: The space-time structure of jet quenching - theory and experiment
 <a href="https://www.gsi.de/work/wissenschaftliche_netzwerke/helmholtz_allianz_emmi.htm">
-  <img src="https://avatars3.githubusercontent.com/u/9026572?s=400&u=4a9412e0949d3fd1c07251a2e1be0357ee1652e8&v=4" alt="EMMI"   width="100" height="100"> <br> ExtreMe Matter Institute </a>
+  <img src="https://avatars3.githubusercontent.com/u/9026572?s=400&u=4a9412e0949d3fd1c07251a2e1be0357ee1652e8&v=4" alt="EMMI"   width="150" height="150"> <br> ExtreMe Matter Institute </a>
 
 ### GSI, August 12-16 2019
 
