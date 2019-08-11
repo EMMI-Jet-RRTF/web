@@ -16,3 +16,7 @@ There are also available 2 ptHats (50 GeV and 300 GeV) and they are easily recog
 `lhc_zjet50_hadron` (for z+jet with ptHat = 50 GeV)
 
 For each setup, there will be 40 files (summing a total of 0.8M events) of vacuum reference (`qpythia_vac_XX.hepmc`) and quenched events (`qpythia_qhat2_XX.hepmc`).
+
+<hr> 
+
+Contact: Liliana Apolinário
