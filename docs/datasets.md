@@ -22,22 +22,22 @@ Fig. 5 shows the quality of the agreement with experimental data.
 ## MARTINI
 ## Hybrid Model
 
-### Output###
+### Output
 * Headers
 
- * __U GEV MM__
+  * __U GEV MM__
    All units in GeV and mm.
 
- * __W 1.0000000000000000000000e+00__
+  * __W 1.0000000000000000000000e+00__
    Event pt_hat weight.
    All weights = 1 trivially for these runs with fixed pt_hat.
 
- * __A 0 GenCrossSection 4.87142535e+03 4.87142535e+03 -1 -1__
+  * __A 0 GenCrossSection 4.87142535e+03 4.87142535e+03 -1 -1__
    Hard cross section (different in pp and PbPb due to nPDF).
    cross_section and cross_section_error in position 1 and 2 in the line.
    Two last integers are irrelevant.
 
- * __A 0 GenPdfInfo 0 0 1.22000454e-12 5.57096735e-12 0.00000000e+00 0.00000000e+00 0.00000000e+00 0 0__
+  * __A 0 GenPdfInfo 0 0 1.22000454e-12 5.57096735e-12 0.00000000e+00 0.00000000e+00 0.00000000e+00 0 0__
    Not really PDF info.
    I use this line to write the creation point in (x,y) plane of hard scattering, in mm, in position 3 and 4 in the line. In this example:
    x=1.22000454e-12
@@ -63,10 +63,10 @@ __Genealogy Logic__
 
 _Partons_:
 * Full parton shower history kept in file:
- * Only time-like shower information, or FSR.
- * No record of incoming hard partons.
- * No record of ISR shower.
- * To know the starting space-time position of partons with status 23 and 41, one needs to look at GenPdfInfo line for (x,y) creation point in transverse plane, with z=t=0. Therefore, all partons with status 23 and 41 have the same starting space-time position.
+  * Only time-like shower information, or FSR.
+  * No record of incoming hard partons.
+  * No record of ISR shower.
+  * To know the starting space-time position of partons with status 23 and 41, one needs to look at GenPdfInfo line for (x,y) creation point in transverse plane, with z=t=0. Therefore, all partons with status 23 and 41 have the same starting space-time position.
           
 * Vertex line contains space-time position of partonic splitting, as (x,y,z,ct), in mm.
 
@@ -77,7 +77,7 @@ _Hadrons_:
 
 * Hadrons from the wake, with status 6 and 7, have as a mother the final parton that sourced them. (This means that a final parton can be a mother of a hadron, but still is to be considered final because it is not a mother of a parton).
 
-### Misc###
+### Misc
 
 __Analysis__
 
@@ -88,7 +88,7 @@ __Hadronization__
 
 * pi0s are not allowed to split, and are considered stable.
 
-### The model###
+### The model
 Under construction
 
 ## Q-PYTHIA
