@@ -13,13 +13,13 @@ The following JETSCAPE samples are available:
 
 **Process**: Di-jet 
 
+**pt-hat bins**: > 50 GeV, > 300 GeV (one hard scattering per event)
+
 **Parton shower history**: encoded in HepMC graph
 
 **Hydro**: event-averaged VISHNU (2+1)D
 
 **Medium response**: Encoded in HepMC graph for MATTER+LBT, none for MATTER+Martini
-
-**pt-hat bins**: > 50 GeV, > 300 GeV (one hard scattering per event)
 
 **Statistics**: ~500k pp, ~100 Pb-Pb each
 
