@@ -84,4 +84,4 @@ Under construction
 
 <hr>
 
-Contacts: Daniel Pablos
+Contact: Daniel Pablos
