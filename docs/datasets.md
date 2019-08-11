@@ -1,36 +1,20 @@
 # Data sets
 
-## PYTHIA
+## [PYTHIA](Datasets-PYTHIA.md)
 
-[PYTHIA](Datasets-PYTHIA.md)
+## [HERWIG](Datasets-HERWIG.md)
 
-## HERWIG
+## [JEWEL](Datasets-JEWEL.md)
 
-[HERWIG](Datasets-HERWIG.md)
+## [Hybrid Model](Datasets-HybridModel.md)
 
-## JEWEL
+## [Q-PYTHIA](Datasets-QPYTHIA.md)
 
-[JEWEL](Datasets-JEWEL.md)
+## [MARTINI](Datasets-MARTINI.md)
 
-## Hybrid Model
+## [JETSCAPE](Datasets-JETSCAPE.md)
 
-[Hybrid Model](Datasets-HybridModel.md)
-
-## Q-PYTHIA
-
-[QPYTHIA](Datasets-QPYTHIA.md)
-
-## MARTINI
-
-[MARTINI](Datasets-MARTINI.md)
-
-## JETSCAPE
-
-[JETSCAPE](Datasets-JETSCAPE.md)
-
-## Hydro
-
-[Hydro](Datasets-Hydro.md)
+## [Hydro](Datasets-Hydro.md)
 
 <hr>
 
