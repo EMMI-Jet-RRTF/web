@@ -23,6 +23,19 @@ Fig. 5 shows the quality of the agreement with experimental data.
 ## Hybrid Model
 
 ### Output
+HepMC3 files in /lustre/emmi/emmi07/hybrid_datasets<br/>
+The name of the folder describes the parameters of the simulation:<br/>
+* *rhic_200* or *lhc_5020*
+* *pp* or *05* or *5060*
+* *phot_X* or *dijet_X*, where *X* describes the value of pt_hat_min of the simulation
+
+Inside folders *05* and *5060* there are two files:
+* *kappa0p404.dat*, results with quenching, with kappa_sc=0.404.
+* *noquench.dat*, results without quenching
+
+The purpose of the unquenched results is to be able to compare against quenched ones event by event, where the PDFs are the same. One can also use the *noquench.dat* results to estimate the effect of nPDFs. <br/>
+In order to get a pp reference one needs to look at *pp* folders.
+
 * Headers
 
   * __U GEV MM__<br/>
@@ -32,16 +45,16 @@ Fig. 5 shows the quality of the agreement with experimental data.
    Event pt_hat weight.<br/>
    All weights = 1 trivially for these runs with fixed pt_hat.
 
-  * __A 0 GenCrossSection 4.87142535e+03 4.87142535e+03 -1 -1__
-   Hard cross section (different in pp and PbPb due to nPDF).
-   cross_section and cross_section_error in position 1 and 2 in the line.
+  * __A 0 GenCrossSection 4.87142535e+03 4.87142535e+03 -1 -1__<br/>
+   Hard cross section (different in pp and PbPb due to nPDF).<br/>
+   cross_section and cross_section_error in position 1 and 2 in the line.<br/>
    Two last integers are irrelevant.
 
-  * __A 0 GenPdfInfo 0 0 1.22000454e-12 5.57096735e-12 0.00000000e+00 0.00000000e+00 0.00000000e+00 0 0__
-   Not really PDF info.
-   I use this line to write the creation point in (x,y) plane of hard scattering, in mm, in position 3 and 4 in the line. In this example:
-   x=1.22000454e-12
-   y=5.57096735e-12
+  * __A 0 GenPdfInfo 0 0 1.22000454e-12 5.57096735e-12 0.00000000e+00 0.00000000e+00 0.00000000e+00 0 0__<br/>
+   Not really PDF info.<br/>
+   I use this line to write the creation point in (x,y) plane of hard scattering, in mm, in position 3 and 4 in the line. In this example:<br/>
+   x=1.22000454e-12<br/>
+   y=5.57096735e-12<br/>
    Rest of numbers are irrelevant.
 
 * Particle List
