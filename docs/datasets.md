@@ -25,11 +25,11 @@ Fig. 5 shows the quality of the agreement with experimental data.
 ### Output
 * Headers
 
-  * __U GEV MM__
+  * __U GEV MM__<br/>
    All units in GeV and mm.
 
-  * __W 1.0000000000000000000000e+00__
-   Event pt_hat weight.
+  * __W 1.0000000000000000000000e+00__<br/>
+   Event pt_hat weight.<br/>
    All weights = 1 trivially for these runs with fixed pt_hat.
 
   * __A 0 GenCrossSection 4.87142535e+03 4.87142535e+03 -1 -1__
