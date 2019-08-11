@@ -2,7 +2,7 @@
 
 The following JETSCAPE samples are available:
 - pp
-- MATTER + LBT, 0-5%
+- MATTER + LBT, 0-5%, 30-40%
 - MATTER + Martini, 0-5%
 
 **Location**: `/lustre/emmi/emmi02/jetscape`
