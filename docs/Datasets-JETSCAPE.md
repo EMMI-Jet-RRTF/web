@@ -4,4 +4,4 @@ Under construction...
 
 <hr>
 
-Contacts: James Mulligan
+Contact: James Mulligan
