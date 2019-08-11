@@ -81,3 +81,7 @@ __Hadronization__
 
 ### The model
 Under construction
+
+<hr>
+
+Contacts: Daniel Pablos
