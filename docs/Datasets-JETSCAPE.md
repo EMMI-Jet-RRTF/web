@@ -5,7 +5,7 @@ The following JETSCAPE samples are available:
 - MATTER + LBT, 0-5%
 - MATTER + Martini, 0-5%
 
-The samples are available at: `/lustre/emmi/emmi02/jetscape`
+**Location**: `/lustre/emmi/emmi02/jetscape`
 
 **Format**: HepMC 3.1.1
 
