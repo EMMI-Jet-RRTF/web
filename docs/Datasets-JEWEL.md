@@ -29,7 +29,7 @@ vertex codes:
 - 11: splitting
 - 12: scattering
 - 13: hadronisation vertex
-􏰀
+
 status codes:
 - 0: not a particle (there for technical reasons, just ignore)
 - 1: 􏰁finnal state particle
