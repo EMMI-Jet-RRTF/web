@@ -15,6 +15,8 @@ Action items for Tuesday Aug 13:
 2. EMMI diagram for same simluations
    * plot log(1/z) vs log(1/theta)
    * likewise at both parton and hadronl levels
+   
+Next group meeting: Tuesday at 11 am.
 
 <hr>
 
