@@ -27,7 +27,11 @@ Currently Loaded Modulefiles:
   3) heppy/python/HEPMC2/2.06.09   6) heppy/python/PYTHIA8/8235     9) heppy/main_python
 ```
 
-- these are fully functional packages that you can use for other purposes - for example typing `root -l -b` will open a root session... if you want to use these to build other software - lookup the module file or use the `env | grep` - for example:
+### Note
+
+You do not need to use python. You can compile your C++ code against these libraries - these are fully functional packages that you can use for other purposes 
+- for example typing `root -l -b` will open a root session... 
+- if you want to use these to build other software - lookup the module file or use the `env | grep` - for example:
 
 ```
 > env | grep HEPPY
@@ -105,8 +109,27 @@ pip install numpy pandas array --user
 - note for this step you will need an extra package - one time command...(don't worry if you see a red printout about pybind11 -- it worked successfully)
 
 ```
+pip install pybind11 --user
 pip install pyhepmc_ng --user
 ```
+
+- if you are unable to install pybind11 and the pyhepmc_ng there is a workaround (happened to one of the participants):
+
+```
+cp -r /u/emmi01/.local $HOME
+```
+
+AND add these lines to your $HOME/.bashrc
+
+```
+if [ -z ${PATH} ]; then
+    export PATH=$HOME/.local/bin
+else
+    export PATH=$HOME/.local/bin:$PATH
+fi
+```
+
+then you should be all set...
 
 - now run the jet finding on the hepmc file:
 
