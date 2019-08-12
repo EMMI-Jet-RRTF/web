@@ -4,13 +4,10 @@ This is an unoffi􏰂cial version of JEWEL & all samples are unvalidated!
 
 **toy model background**:
 
-- Au+Au 200 GeV + Pb+Pb 5 TeV 
-
-􏰀- di-jet + γ+jet
-
+- Au+Au 200 GeV + Pb+Pb 5 TeV
+- di-jet + γ+jet
 - 0-10 % + 50-60 % centrality
-
-􏰀- with + without recoils
+- with + without recoils
 
 **hydro background**: (S. Floerchinger, E. Grossi and J. Lion, Phys. Rev. C 100 (2019) no.1, 014905, [arXiv:1811.01870])
 
