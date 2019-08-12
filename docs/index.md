@@ -14,6 +14,7 @@
 1. [Computing at GSI](computing.md)
 2. [Analysis Software](software.md)
 3. [Datasets](datasets.md)
+4. [Meeting notes](notes.md)
 
 ## Workshop Links <a name="WorkshopLinks"></a>
 
