@@ -8,7 +8,9 @@ The following JETSCAPE samples are available:
 **Location**: `/lustre/emmi/emmi02/jetscape`
 
 Files are labeled `model_sqrts_(centrality)_pthat_HadronizationType`
+
 For AA, use "colorless" hadronization. For pp, use either "colored" or "colorless".
+
 (production ongoing...)
 
 **Format**: HepMC 3.1.1
