@@ -113,7 +113,7 @@ pip install pybind11 --user
 pip install pyhepmc_ng --user
 ```
 
-- if you are unable to install pybind11 and the pyhepmc_ng there is a workaround (happened to one of the participants):
+- if you are unable to install pybind11 and the pyhepmc_ng there is a workaround (happened to one of the participants) - don't despair there is a hack for that... do this:
 
 ```
 cp -r /u/emmi01/.local $HOME
