@@ -144,7 +144,7 @@ start a new session (logout or bash...) then you should be all set...
 - or run on jetscape events, and save a ROOT histogram:
 
 ```
-/u/emmi01/rrtf/heppy/examples/hepmc_jetscape_jetreco.py -i /lustre/emmi/emmi02/PP19_2760_50_dijet/1/test_out.hepmc
+/u/emmi01/rrtf/heppy/examples/hepmc_jetscape_jetreco.py -i /lustre/emmi/emmi02/jetscape/PP_2760_50_colored/1/test_out.hepmc
 ```
    - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_jetscape_jetreco.py)
 
