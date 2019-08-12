@@ -132,6 +132,16 @@ $HEPPYDIR/examples/hepmc_qpythia_jetreco.py -i /u/emmi08/qpythia_qhat2_1.hepmc
 ```
    - code on github [https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py](https://github.com/matplo/heppy/blob/master/examples/hepmc_qpythia_jetreco.py)
 
+
+## pre-requisite for compilation
+
+- we use a bit more updated CMake to compile things... - custom installed
+
+```
+module use /u/emmi01/software/hepsoft/modules
+module load cmake/3.15.1
+```
+
 ### more items coming up...
 
 <hr>
