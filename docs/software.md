@@ -102,7 +102,7 @@ pip install numpy pandas array --user
 
 ### read the hepmc2 file and run a jet finder....
 
-- note for this step you will need an extra package - one time command...
+- note for this step you will need an extra package - one time command...(don't worry if you see a red printout about pybind11 -- it worked successfully)
 
 ```
 pip install pyhepmc_ng --user
