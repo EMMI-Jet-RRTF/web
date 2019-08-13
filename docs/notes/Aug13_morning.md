@@ -26,28 +26,19 @@ Most useful is the difference plot AA - pp
    * needs sufficient statistical precision - do we have that?
    
 Study effects of hadronization: 
-   *look at difference plot PYTHIA-Herwig for pp collisions
+   * look at difference plot PYTHIA-Herwig for pp collisions
 
-xxxx under construction
+## Common jet kinematics 
 
-Gui: concerned that comparison of AA and pp means comparing jets with different primordial kinematics. Proposed solution: use gamma+jet population.
+Inclusive jets:
+   * RHIC: pTjet>15, 40 GeV (pThat=10, 35 GeV); |eta_jet|<1
+   * LHC: pTjet>70, 350 GeV (pThat=50, 300 GeV); |eta_jet|<2
 
+Gamma+jet:
+   * |delta_phi – pi| < 0.6
+   * pTgamma > 100 GeV
+   * choose hardest recoil jet with pTjet > 30 GeV
 
-
-Agreement on kinematics:
-
-Incl jets:
-•	RHIC: pTjet>15, 40 GeV (pThat=10, 35 GeV); |eta_jet|<1
-•	LHC: pTjet>70, 350 GeV (pThat=50, 300 GeV); |eta_jet|<2
-
-Read initial parton energy from HEPMC record
-Separate q/g
-
-Gamma+jet…?
-•	|delta_phi – pi| < 0.6
-•	pTgamma > 100 GeV
-•	look for hardest recoil jet 
-•	pTjet > 30 GeV
-
-
+Fix initial kiematics: read initial parton energy from HEPMC record
+   * also use to separate q/g?
 
