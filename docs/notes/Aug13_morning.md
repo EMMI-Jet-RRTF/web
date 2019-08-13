@@ -45,14 +45,14 @@ Inclusive jets:
 Gamma+jet:
 
    * RHIC:
-      ** \|delta_phi – pi\| < 0.6
-      ** pTgamma > 20 GeV
-      ** choose hardest recoil jet with pTjet > 10 GeV
+      * \|delta_phi – pi\| < 0.6
+      * pTgamma > 20 GeV
+      * choose hardest recoil jet with pTjet > 10 GeV
       
    * LHC:
-      ** \|delta_phi – pi\| < 0.6
-      ** pTgamma > 100 GeV
-      ** choose hardest recoil jet with pTjet > 30 GeV
+      * \|delta_phi – pi\| < 0.6
+      * pTgamma > 100 GeV
+      * choose hardest recoil jet with pTjet > 30 GeV
 
 Alternative to fix initial kinematics: read initial parton energy from HEPMC record
    * also use to separate q/g?
