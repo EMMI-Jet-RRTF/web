@@ -10,6 +10,8 @@
    * Hybrid, 0-5%, PT > 300 GeV
       * [with quench](yi-yenjie/HybridLund_lhc_502_05_dijet_300_kappa0p404.pdf)
       * [no quench](yi-yenjie/HybridLund_lhc_502_05_dijet_300_noquench.pdf)
+      * [with quench, no wake](yi-yenjie/HybridNoWakeLund_05_dijet_300.pdf)
+      * [no quench, no wake](yi-yenjie/HybridNoWakeLund_05_dijet_300_NoQuench.pdf)
    * Hybrid, 50-60%, PT > 300 GeV
       * [with quench](yi-yenjie/HybridLund_lhc_502_5060_dijet_300_kappa0p404.pdf)
       * [no quench](yi-yenjie/HybridLund_lhc_502_5060_dijet_300_noquench.pdf)
