@@ -7,11 +7,11 @@ The following JETSCAPE samples are available:
 
 **Location**: `/lustre/emmi/emmi02/jetscape`
 
-Files are labeled `model_sqrts_(centrality)_pthat_HadronizationType`
+Files are labeled `model_sqrts_(centrality)_pthat_(HadronizationType)`
 
-For AA, use "colorless" hadronization. For pp, use either "colored" or "colorless".
+For pp, use either "colored" or "colorless".
 
-(production ongoing...)
+For AA, all samples are "colorless" hadronization.
 
 **Format**: HepMC 3.1.1
 
@@ -27,7 +27,7 @@ For AA, use "colorless" hadronization. For pp, use either "colored" or "colorles
 
 **Medium response**: Encoded in HepMC graph for MATTER+LBT, none for MATTER+Martini
 
-**Statistics**: ~500k pp, ~100 Pb-Pb each
+**Statistics**: ~500k pp, ~100k Pb-Pb each
 
 Detailed configuration settings can be found in each subdirectory.
 
