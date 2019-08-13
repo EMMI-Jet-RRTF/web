@@ -55,4 +55,6 @@ Notes on the chalkboard:
    * PYTHIA vs HERWIG
    
 10. Couple SMASH to shower/quench models
+
+11. Create a Dictionary of Models: document their essential approaches and differences
    
