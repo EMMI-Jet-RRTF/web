@@ -49,3 +49,7 @@
 ## Lund Diagram from MARTINI:
 
    * [slides](Aug13Files/Lund_diagram_MARTINI_Aug13.pdf)
+   
+## Lund Diagram from JETSCAPE:
+
+   * [slides](Aug13Files/Jetscape_Lund-Aug13.pdf)
