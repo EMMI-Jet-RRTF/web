@@ -32,6 +32,6 @@
 
    * [Presentation](EMMIworkshop_Herwig_8_13_19.pdf)
 
-# Dynamical core-corona initialization
+## Dynamical core-corona initialization
 
    * [slides](HiranoKanakuboDiscussionSessionAug13.pdf) 
