@@ -30,6 +30,8 @@
       * UE on [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEon_Tune4C_jetPt500.pdf)
       * UE off [jet pT > 300 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt300.pdf)
       * UE off [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt500.pdf)
+   * PYTHIA8 4C, pthat50
+      * Parton level (Aug13Files/emmi_tuesday_v2.pdf)
 
 ## JEWEL 200 GeV AuAu w/o recoils and pp for LUND and EMMI planes
 
