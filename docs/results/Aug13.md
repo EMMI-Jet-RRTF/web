@@ -35,3 +35,7 @@
 ## Dynamical core-corona initialization
 
    * [slides](HiranoKanakuboDiscussionSessionAug13.pdf) 
+   
+## Lund Diagram from MARTINI:
+
+   * [slides](Lund_diagram_MARTINI_Aug13.pdf)
