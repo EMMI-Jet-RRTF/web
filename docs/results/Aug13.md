@@ -15,7 +15,7 @@
    * Hybrid pp, PT > 300 GeV
       * [no quench](yi-yenjie/HybridLund_lhc_502_pp_dijet_300_kappa0p404_ManualRun.pdf)
    * PYTHIA8 4C, pthat 300
-      * UE on [jet pT > 300 GeV](yi-yenjie/Lund_Pythia8_Dijet_4C_UE_Pthat300_Jet300.pdf)
-      * UE on [jet pT > 500 GeV](yi-yenjie/Lund_Pythia8_Dijet_4C_UE_Pthat300_Jet500.pdf)
+      * UE on [jet pT > 300 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEon_Tune4C_jetPt300.pdf)
+      * UE on [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEon_Tune4C_jetPt500.pdf)
       * UE off [jet pT > 300 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt300.pdf)
       * UE off [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt500.pdf)
