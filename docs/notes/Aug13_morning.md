@@ -39,7 +39,7 @@ Gamma+jet:
    * pTgamma > 100 GeV
    * choose hardest recoil jet with pTjet > 30 GeV
 
-Fix initial kiematics: read initial parton energy from HEPMC record
+Fix initial kinematics: read initial parton energy from HEPMC record
    * also use to separate q/g?
    
    
