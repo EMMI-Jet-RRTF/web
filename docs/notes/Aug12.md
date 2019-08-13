@@ -47,8 +47,8 @@ Notes on the chalkboard:
    * pp @ RHIC and LHC; A+A?
    * Change beta and clustering algorithm in SD
    
-8. Evt generation for differnt models with common hydro background?
-   * XNW: choice of background modle can potentially generate large effects
+8. Evt generation for different models with common hydro background?
+   * XNW: different choices of background model can generate large differences in jet distributions
    
 9. Hadronization and substructure: how to test effects?
    * compare observables @ parton vs hadron levels
