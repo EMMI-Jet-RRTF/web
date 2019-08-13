@@ -22,3 +22,6 @@
       * UE on [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEon_Tune4C_jetPt500.pdf)
       * UE off [jet pT > 300 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt300.pdf)
       * UE off [jet pT > 500 GeV](yi-yenjie/Lund_Pythia_pthat300_s5.02TeV_UEoff_Tune4C_jetPt500.pdf)
+
+## Herwig Lund and EMMI diagrams: 
+* [Presentation](EMMIworkshop_Herwig_8_13_19.pdf)
