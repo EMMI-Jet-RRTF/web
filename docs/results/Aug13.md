@@ -33,17 +33,17 @@
 
 ## JEWEL 200 GeV AuAu w/o recoils and pp for LUND and EMMI planes
 
-   * [slides](funwithLund_jewel200_raghav_v0.pdf)
-   * [slides including jewel w/ recoils and q-pythia](funwithLund_jewel200_raghav_v1.pdf)
+   * [slides](Aug13Files/funwithLund_jewel200_raghav_v0.pdf)
+   * [slides including jewel w/ recoils and q-pythia](Aug13Files/funwithLund_jewel200_raghav_v1.pdf)
 
 ## Herwig Lund and EMMI diagrams: 
 
-   * [Presentation](EMMIworkshop_Herwig_8_13_19.pdf)
+   * [Presentation](Aug13Files/EMMIworkshop_Herwig_8_13_19.pdf)
 
 ## Dynamical core-corona initialization
 
-   * [slides](HiranoKanakuboDiscussionSessionAug13.pdf) 
+   * [slides](Aug13Files/HiranoKanakuboDiscussionSessionAug13.pdf) 
    
 ## Lund Diagram from MARTINI:
 
-   * [slides](Lund_diagram_MARTINI_Aug13.pdf)
+   * [slides](Aug13Files/Lund_diagram_MARTINI_Aug13.pdf)
