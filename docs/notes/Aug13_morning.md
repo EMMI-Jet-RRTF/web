@@ -31,11 +31,11 @@ Study effects of hadronization:
 ## Common jet kinematics 
 
 Inclusive jets:
-   * RHIC: pTjet>15, 40 GeV (pThat=10, 35 GeV), |eta_jet|<1
-   * LHC: pTjet>70, 350 GeV (pThat=50, 300 GeV), |eta_jet|<2
+   * RHIC: pTjet>15, 40 GeV (pThat=10, 35 GeV), \|eta_jet\|<1
+   * LHC: pTjet>70, 350 GeV (pThat=50, 300 GeV), \|eta_jet\|<2
    
 Gamma+jet:
-   * |delta_phi – pi| < 0.6
+   * \|delta_phi – pi\| < 0.6
    * pTgamma > 100 GeV
    * choose hardest recoil jet with pTjet > 30 GeV
 
