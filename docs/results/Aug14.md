@@ -42,3 +42,7 @@
 
 ### PYTHIA-8 shower study update from Liliana
    * [slides](Aug14Files/emmi_wednesday_morning.pdf)
+   
+### Herwig Lund and EMMI diagrams: 
+
+   * [Presentation](Aug14Files/EMMIworkshop_Herwig_8_14_19.pdf)
