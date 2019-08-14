@@ -1,5 +1,8 @@
 # New results Aug 14
 
+## Konrad Tywoniuk's tutorial on SoftDrop
+   * [slides](Aug14Files/EMMI2019_SoftDrop_KonradTywoniuk.pdf)
+
 ## Report from Yi and Yen-Jie:
 
 ### EMMI Diagram
