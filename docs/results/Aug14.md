@@ -21,7 +21,7 @@
       * [with quench](Aug14Files/yi-yenjie/HybridLund_lhc_502_5060_dijet_70_kappa0p404.pdf)
       * [no quench](Aug14Files/yi-yenjie/HybridLund_lhc_502_5060_dijet_70_noquench.pdf)
    * Hybrid pp, PT > 350 GeV
-      * [no quench](Aug14Files/yi-yenjie/HybridLund_lhc_502_pp_dijet_300_noquench_ManualRun.pdf)
+      * [no quench](Aug14Files/yi-yenjie/HybridLund_lhc_502_pp_dijet_300_noquench.pdf)
    * Hybrid pp, PT > 70 GeV
       * [no quench](Aug14Files/yi-yenjie/HybridLund_lhc_502_pp_dijet_50_noquench.pdf)
 
