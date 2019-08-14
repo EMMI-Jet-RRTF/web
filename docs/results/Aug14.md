@@ -46,3 +46,7 @@
 ### Herwig Lund and EMMI diagrams: 
 
    * [Presentation](Aug14Files/EMMIworkshop_Herwig_8_14_19.pdf)
+   
+### EMMI diagram: pp, and PbPb with MARTINI energy loss at 5 TeV
+
+   * [Presentation](Aug14Files/Lund_diagram_MARTINI_Aug14.pdf)
