@@ -29,5 +29,6 @@
    * [Status report](Aug14Files/yi-yenjie/20190814-JetWorkshop-yenjie-v0.pdf)
 
 ### Studying Lund Planes @ Hadronic, Partonic and Parton Shower within Jets w/ pp collisions JEWEL shower @ 5 TeV [slides](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v0.pdf)
+   * new version with bug fix! - [slides-v1](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v1.pdf)  
 
 ### PYTHIA-8 shower study update from Liliana [slides](Aug14Files/emmi_wednesday_morning.pdf)
