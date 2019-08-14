@@ -1,5 +1,8 @@
 # New results Aug 14
 
+## Konrad Tywoniuk's tutorial on SoftDrop
+   * [slides](Aug14Files/EMMI2019_SoftDrop_KonradTywoniuk.pdf)
+
 ## Report from Yi and Yen-Jie:
 
 ### EMMI Diagram
@@ -28,7 +31,13 @@
 ### Correlation between Leading Parton splitting KT and Leading reco KT
    * [Status report](Aug14Files/yi-yenjie/20190814-JetWorkshop-yenjie-v0.pdf)
 
+<<<<<<< HEAD
 ### Studying Lund Planes @ Hadronic, Partonic and Parton Shower within Jets w/ pp collisions JEWEL shower @ 5 TeV [slides](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v0.pdf)
    * new version with bug fix! - [slides-v1](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v1.pdf)  
+=======
+### Studying Lund Planes @ Hadronic, Partonic and Parton Shower within Jets w/ pp collisions JEWEL shower @ 5 TeV
+   * [slides](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v0.pdf)
+>>>>>>> dffef1ab84ddedb2b26207f3b5d9943bf46817be
 
-### PYTHIA-8 shower study update from Liliana [slides](Aug14Files/emmi_wednesday_morning.pdf)
+### PYTHIA-8 shower study update from Liliana
+   * [slides](Aug14Files/emmi_wednesday_morning.pdf)
