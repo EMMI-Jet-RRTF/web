@@ -2,14 +2,14 @@
 
 The following JETSCAPE samples are available:
 - pp
-- MATTER + LBT, 0-5%, 30-40%
+- MATTER + LBT, 0-5%
 - MATTER + Martini, 0-5%
 
 **Location**: `/lustre/emmi/emmi02/jetscape`
 
 Files are labeled `model_sqrts_(centrality)_pthat_(HadronizationType)`
 
-For pp, use either "colored" or "colorless".
+For pp, use either "colored" or "colorless" hadronization.
 
 For AA, all samples are "colorless" hadronization.
 
