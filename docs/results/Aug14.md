@@ -30,6 +30,7 @@
 
 ### Correlation between Leading Parton splitting KT and Leading reco KT
    * [Status report](Aug14Files/yi-yenjie/20190814-JetWorkshop-yenjie-v0.pdf)
+   * [Afternoon Status report](Aug14Files/yi-yenjie/20190814-JetWorkshop-yenjie-afternoon-v0.pdf)
 
 <<<<<<< HEAD
 ### Studying Lund Planes @ Hadronic, Partonic and Parton Shower within Jets w/ pp collisions JEWEL shower @ 5 TeV [slides](Aug14Files/funwithLund_showerComp_jewel_5TeV_raghav_v0.pdf)
