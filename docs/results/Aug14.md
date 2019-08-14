@@ -50,3 +50,6 @@
 ### EMMI diagram: pp, and PbPb with MARTINI energy loss at 5 TeV
 
    * [Presentation](Aug14Files/Lund_diagram_MARTINI_Aug14.pdf)
+   
+### Angantyr Lund diagrams (Hirano+Kanakubo)
+  * [Presentation](Aug14Files/HiranoKanakuboDiscussionSessionAug14.pdf)
