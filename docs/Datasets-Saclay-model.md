@@ -5,7 +5,7 @@
 **Model**: This parton shower evolves an initial parton coming from the hard scattering according to the following three steps:
 
 (1) firstly, an angular ordered vacuum-like shower inside the medium, with running coupling and full DGLAP splitting functions.
-The inside region is defined in the phase space by k_T^2>sqrt(qhat omega) and theta> theta_coherence. At leading logarihmic accuracy, vacuum like emissions are angular ordered inside the medium (despite quantum color decoherence).
+The inside region is defined in the phase space by kt^2>sqrt(qhat omega) (equivalently omega/kt^2 < sqrt(omega/qhat)) and theta> theta_coherence. At leading logarihmic accuracy, vacuum like emissions are angular ordered inside the medium (despite quantum color decoherence).
 
 (2) once the previous shower has reached the in-medium cut, all the sources trigger medium-induced cascades during time L (fixed length of the medium). The strong coupling constant is fixed to the free parameter alphas_med during this step.
 
