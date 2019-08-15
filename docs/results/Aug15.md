@@ -19,5 +19,5 @@ https://github.com/EMMI-Jet-RRTF/web.git
    * [slides](Aug15Files/funwithLund_showerCorrelation_jewel_raghav_v0.pdf)
 
 ### Saclay model
-   * [slides](pres-saclay-model.pdf)
+   * [slides](Aug15Files/pres-saclay-model.pdf)
    
