@@ -15,7 +15,8 @@
 2. [Analysis Software](software.md)
 3. [Datasets](datasets.md)
 4. [Meeting notes](notes.md)
-4. [Results](results.md)
+5. [Results](results.md)
+6. [Writeup](writeup/writeup.md)
 
 ## Workshop Links <a name="WorkshopLinks"></a>
 
