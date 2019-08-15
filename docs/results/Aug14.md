@@ -53,3 +53,6 @@
    
 ### Angantyr Lund diagrams (Hirano+Kanakubo)
   * [Presentation](Aug14Files/HiranoKanakuboDiscussionSessionAug14.pdf)
+  
+### Hybrid (Pablos)
+   * [Presentation](Aug14Files/hybrid_august_14.pdf)
