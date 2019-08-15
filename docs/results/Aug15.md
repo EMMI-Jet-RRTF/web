@@ -10,3 +10,6 @@ https://github.com/EMMI-Jet-RRTF/web.git
 
 ### Correlation between Leading Parton splitting KT and Leading reco KT
    * [Status report](Aug15Files/yi-yenjie/20190815-JetWorkshop-yenjie-v0.pdf)
+   
+### Update and bug-fix from MARTINI
+   * [Status report](Aug15Files/Lund_diagram_MARTINI_Aug15.pdf)
