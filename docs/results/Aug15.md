@@ -14,3 +14,5 @@ https://github.com/EMMI-Jet-RRTF/web.git
    
 ### Update and bug-fix from MARTINI
    * [Slide](Aug15Files/Lund_diagram_MARTINI_Aug15.pdf)
+
+### Harder kT split vs softdrop observable in JEWEL and effect of quenching - [slides](Aug15Files/funwithLund_showerCorrelation_jewel_raghav_v0.pdf)
