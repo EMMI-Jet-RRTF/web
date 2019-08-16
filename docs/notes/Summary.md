@@ -1,9 +1,5 @@
 # Summary discussion - Friday afternoon
 
-Following are the bullets that Peter wrote on the board
-
-<hr>
-
 Connection of shower history to observables
    * correlation of hardest kt split in shower vs SD split
    
