@@ -28,3 +28,8 @@
 
 - <a href="https://indico.cern.ch/event/771644/overview" target="_blank"> JetTools 2019 </a>
 - <a href="http://jetscape.org/" target="_blank"> JETSCAPE Collaboration </a>
+
+## Review papers on substructure
+
+- <a href="https://inspirehep.net/record/1663384?ln=en" target="_blank"> Jet Substructure at the Large Hadron Collider : Experimental Review (L. Asquith et al.) </a>
+- <a href="https://inspirehep.net/record/1623553?ln=en" target="_blank"> Jet Substructure at the Large Hadron Collider: A Review of Recent Advances in Theory and Machine Learning (Larkoski et al.) </a>
