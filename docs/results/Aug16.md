@@ -9,4 +9,8 @@
 ## LBT EMMI results from Tan Luo
    * [Slide](Aug16Files/Emmi_diagram_LBT.pdf)
 
-## JEWEL kT correlations and study [slides](Aug16Files/funwithLund_showerCorr_kTselections_jewel_raghav_v0.pdf)
+## JEWEL kT correlations and study 
+   * [slides](Aug16Files/funwithLund_showerCorr_kTselections_jewel_raghav_v0.pdf)
+   
+## Hybrid model
+   * [slides](Aug16Files/kt_tagging.pdf)
