@@ -63,7 +63,7 @@ While validatation of the correlation of max(kt) betweem shower map and Jet Lund
 
 Big picture: how do we study the scattering centers and learn about the quasi-particles of the QGP?
    * rare scatterings in kT tail
-   * 2nd Lund Plance?
+   * 2nd Lund Plane?
    * relate to acoplanarity measurements
    * study correlations in quenching models
 
