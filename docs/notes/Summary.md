@@ -7,7 +7,7 @@ Following are the bullets that Peter wrote on the board
 Connection of shower history to observables
    * correlation of hardest kt split in shower vs SD split
    
-Initial vaidation at this workshop was successful for some parts of phase space
+Initial validation at this workshop was successful for some parts of phase space
    * reclustering via both CA and kT appears to be effective  
    * comprehesive validation effort ongoing
    * RHIC is (much) more difficult than LHC
