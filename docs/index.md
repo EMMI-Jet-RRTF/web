@@ -17,6 +17,7 @@
 4. [Meeting notes](notes.md)
 5. [Results](results.md)
 6. [Writeup](writeup/writeup.md)
+7. <a href="https://docs.google.com/spreadsheets/d/1C3I12kOfm8SOfm6bqZ9eG2pPSD8K_5OV4nKZ49LWfHA/edit#gid=0" target="_blank"> Spreadsheet of analyses </a>
 
 ## Workshop Links <a name="WorkshopLinks"></a>
 
